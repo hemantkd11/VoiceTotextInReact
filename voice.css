@@ -50,3 +50,16 @@ body {
   color: #fff;
   cursor: pointer;
 }
+.btn-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.micBtn {
+  padding: 13px 10px;
+  background-color: #05737f;
+  border: none;
+  font-size: 20px;
+  border-radius: 5px;
+}
